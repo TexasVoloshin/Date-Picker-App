@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Anniversary Countdown</string>
+    <string name="countdown">There are only</string>
+    <string name="countdownleft">until the Anniversary</string>
+</resources>
